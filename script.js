@@ -1,3 +1,4 @@
-function apple() {
-  alert("Hello, I'm an apple function!");
+function fruits(i) {
+  alert("My favorite fruit is " + i);
 }
+fruits("orange");
