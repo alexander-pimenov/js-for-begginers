@@ -1,12 +1,10 @@
-var i = "my Mom ";
-var y = "likes to cook.";
-document.write(i+y);
+ function apple() {
+   alert("Hello, this is function called apple");
+ }
 
-// or
+ function orange() {
+   alert("this is fucntion called orenge");
+ }
 
-document.write('      ');
-var y2 = 232;
-var i2 = 234;
-
-var result = y2 + i2;
-document.write(y2+i2+' the same as '+result);
+ apple();
+orange();
