@@ -1,10 +1,5 @@
-// comments using like in Java:
-// first
-/*
-    second.
-*/
-
-document.write('Hello ');
-document.write('world');
-// the output will be 'Hello World'.
-// it means that it's like System.out.print(); in Java.
+//how to create variable? Example:
+var s = 'Hello';
+var i = 1991;
+var y = '1991';
+document.write(i + s);
