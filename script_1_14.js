@@ -1,0 +1,10 @@
+var number = 2;
+var br = "<br>";
+number += 1;
+document.write(number + br);
+number -= 1;
+document.write(number + br);
+number *= 2;
+document.write(number + br);
+number /= 2;
+document.write(number + br);
