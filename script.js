@@ -1,7 +1,13 @@
-function fruits(f1,f2) {
-  document.write(f1 + " is better than " + f2 + "<br>");
+function math(a, b) {
+  var c = a + b;
+  return c;
 }
+var c = math(1, 5);
 
-fruits('a1', 'a2');
-fruits('a1', 'a2');
-fruits('a1', 'a2');
+if(c == 6) {
+  document.write("it was true!");
+  do {
+    document.write(c);
+    c--;
+  } while (c > 0);
+}
