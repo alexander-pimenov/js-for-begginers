@@ -8,3 +8,4 @@ if((firstName=="Jay") && (lastName=="Cutler")) {
 }
 
 // operators the same as for Java: && - end, || - or.
+// ! - the same.
