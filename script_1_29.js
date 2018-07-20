@@ -11,6 +11,6 @@ Ronnie = {
 
 var people = new Array(Jay, Ronnie);
 
-for(i = 0; i< people.length; i++) {
+for(i = 0; i < people.length; i++) {
   document.write(people[i].name + "<br>");
 }
